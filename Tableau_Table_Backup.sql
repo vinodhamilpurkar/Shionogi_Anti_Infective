@@ -1,0 +1,10 @@
+
+-- Back Tables
+CREATE TABLE SANDBOX.VH_Pro_Shionogi_Dashboard_Patient_Journey_170807_v1_7_Bak_171215_v1 AS
+SELECT * FROM SANDBOX.VH_Pro_Shionogi_Dashboard_Patient_Journey_170807_v1_7;
+
+CREATE TABLE SANDBOX.VH_Pro_Shionogi_Dashboard_Diagnostic_View_170807_v1_10_Bak_171215_v1 AS
+SELECT * FROM SANDBOX.VH_Pro_Shionogi_Dashboard_Diagnostic_View_170807_v1_10;
+
+CREATE TABLE SANDBOX.VH_Pro_Shionogi_Dashboard_Account_View_170807_v1_9_Bak_171215_v1 AS
+SELECT * FROM SANDBOX.VH_Pro_Shionogi_Dashboard_Account_View_170807_v1_9;
